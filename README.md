@@ -4,7 +4,7 @@
 
 - 📫 You can contact me at **totallynotphysic@gmail.com**
 - 🔨 I’m currently learning **more of python**
-- 👀 I’m working on **vein**
+- 👀 I’m working on **myth**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=physic-dev&label=Profile%20views&color=0e75b6&style=flat" alt="physic-dev" />
