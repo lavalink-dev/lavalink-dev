@@ -14,5 +14,7 @@
 <p align="left">
   <a href="https://discord.gg/strict" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="neck" height="30" width="40" />
+  <a href="https://guns.lol/lavalink" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/lavalink-dev/1/main/gunslol.png" alt="neck" height="30" width="40" />
   </a>
 </p>
