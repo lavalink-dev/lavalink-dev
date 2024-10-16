@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=3650&pause=3000&color=F7F7F7&random=false&width=435&lines=socials" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=3008&pause=3000&color=F7F7F7&random=false&width=435&lines=socials" alt="Typing Animation">
 </p>
 <p align="left">
   <a href="https://discord.gg/strict" target="blank">
