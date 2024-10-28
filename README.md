@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=3650&pause=3000&color=F7F7F7&random=false&width=435&lines=physic%2C+a+bot+developer+in+slovakia" alt="Typing Animation">
 </p>
 
-- 📫 You can contact me at **totallynotphysic@gmail.com**
-- 🔨 I’m currently learning **more of python**
-- 👀 I’m working on **myth**
+- 🍃 I’m working on **myth**
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=25&duration=3008&pause=3000&color=F7F7F7&random=false&width=435&lines=socials" alt="Typing Animation">
